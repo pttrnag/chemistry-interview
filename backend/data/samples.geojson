@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-97.505, 38.5],
+            [-97.5, 38.5],
+            [-97.5, 38.495],
+            [-97.505, 38.495],
+            [-97.505, 38.5]
+          ]
+        ]
+      },
+      "properties": { "sample_id": "S101A", "field_id": 101 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-97.5, 38.5],
+            [-97.4975, 38.5],
+            [-97.4975, 38.495],
+            [-97.5, 38.495],
+            [-97.5, 38.5]
+          ]
+        ]
+      },
+      "properties": { "sample_id": "S101B", "field_id": 101 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-97.4975, 38.5],
+            [-97.495, 38.5],
+            [-97.495, 38.495],
+            [-97.4975, 38.495],
+            [-97.4975, 38.5]
+          ]
+        ]
+      },
+      "properties": { "sample_id": "S101C", "field_id": 101 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-97.492, 38.5],
+            [-97.487, 38.5],
+            [-97.487, 38.497],
+            [-97.492, 38.497],
+            [-97.492, 38.5]
+          ]
+        ]
+      },
+      "properties": { "sample_id": "S102A", "field_id": 102 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-97.487, 38.497],
+            [-97.484, 38.497],
+            [-97.484, 38.494],
+            [-97.487, 38.494],
+            [-97.487, 38.497]
+          ]
+        ]
+      },
+      "properties": { "sample_id": "S102B", "field_id": 102 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-97.492, 38.497],
+            [-97.487, 38.497],
+            [-97.487, 38.494],
+            [-97.492, 38.494],
+            [-97.492, 38.497]
+          ]
+        ]
+      },
+      "properties": { "sample_id": "S102C", "field_id": 102 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-97.503, 38.49] },
+      "properties": { "sample_id": "S103A", "field_id": 103 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-97.499, 38.489] },
+      "properties": { "sample_id": "S103B", "field_id": 103 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-97.497, 38.487] },
+      "properties": { "sample_id": "S103C", "field_id": 103 }
+    }
+  ]
+}
